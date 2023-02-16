@@ -1,0 +1,94 @@
+YEAR,CD,Model,Make
+1965,0.4,Giulia Tipo 105 Coupe GTV,Alfa Romeo
+1962,0.33,Giulia Tipo 105 Sedan,Alfa Romeo
+1968,0.34,Giulia Tipo 105 Sedan,Alfa Romeo
+1970,0.38,1750 Spider Veloce,Alfa Romeo
+1977,0.42,Giulietta Tipo 116,Alfa Romeo
+1983,0.38,33 Tipo 905,Alfa Romeo
+1986,0.36,33 Tipo 905 Facelift,Alfa Romeo
+1984,0.37,90 Tipo 162A,Alfa Romeo
+1994,0.32,145 Tipo 930A,Alfa Romeo
+1995,0.31,146 Tipo 930B,Alfa Romeo
+2000,0.32,147 Tipo 937,Alfa Romeo
+1992,0.29,155 Tipo 167,Alfa Romeo
+1997,0.31,156 Tipo 932,Alfa Romeo
+1987,0.3,164,Alfa Romeo
+2015,0.25,Giulia Tipo 952,Alfa Romeo
+2015,0.32,Giulia Tipo 952 Quadrifoglio,Alfa Romeo
+1992,0.34,Volante,Aston Martin
+1989,0.34,Virage,Aston Martin
+1993,0.34,Vantage,Aston Martin
+2007,0.36,DBS,Aston Martin
+2004,0.34,DB9,Aston Martin
+2001,0.35,Vanquish,Aston Martin
+1984,0.36,Testarossa,Ferrari
+1987,0.34,F40,Ferrari
+1995,0.372,F50,Ferrari
+1999,0.335,360 Modena,Ferrari
+2004,0.32,F430,Ferrari
+2004,0.33,F430 Scuderia,Ferrari
+2002,0.34,Enzo Ferrari,Ferrari
+2006,0.3,P4/5 Pininfarina,Ferrari
+2008,0.32,California,Ferrari
+2006,0.336,599,Ferrari
+2012,0.3,F12 Berlinetta,Ferrari
+1992,0.32,F1,McLaren
+1926,0.662,260 (W02),Mercedes-Benz
+1934,0.516,130 (W23) rear-engine vehicle,Mercedes-Benz
+1935,0.6,170 V (W136),Mercedes-Benz
+1954,0.473,220 (W180),Mercedes-Benz
+1959,0.411,"220, 220 S, 220 SE (W111)",Mercedes-Benz
+1965,0.42,W 108/109,Mercedes-Benz
+1982,0.33,190 E (190 D) W201,Mercedes-Benz
+1984,0.32,"190 E 2,3-16 W201",Mercedes-Benz
+1987,0.308,"190 E 2,5-16 W201",Mercedes-Benz
+1978,0.41,300 TD W123,Mercedes-Benz
+1986,0.3,200 D (250 D) W124,Mercedes-Benz
+1984,0.3,230/260/300 Ε W124,Mercedes-Benz
+1997,0.3,A Class W168,Mercedes-Benz
+2012,0.27,A Class W176,Mercedes-Benz
+2012,0.26,A Class W176 Blue Efficiency Edition,Mercedes-Benz
+2012,0.26,B Class W246,Mercedes-Benz
+2012,0.24,B Class W246 Blue Efficiency Edition,Mercedes-Benz
+1993,0.3,C-class W202,Mercedes-Benz
+2000,0.27,C-class W203,Mercedes-Benz
+2000,0.29,C-class CL203 Sportscoupe,Mercedes-Benz
+2007,0.26,C-class W204,Mercedes-Benz
+2011,0.26,C-class W204 Coupe,Mercedes-Benz
+2007,0.29,C-class W204 Estate,Mercedes-Benz
+2008,0.32,C-class W204 C63 AMG,Mercedes-Benz
+2014,0.24,C-class W205 Sedan,Mercedes-Benz
+2015,0.26,C-class W205 Coupe,Mercedes-Benz
+1999,0.28,CL-class C215,Mercedes-Benz
+2004,0.26,CLS Class W219,Mercedes-Benz
+2004,0.29,CLS Class W219 Shooting Brake,Mercedes-Benz
+1984,0.28,E-class W124,Mercedes-Benz
+1995,0.27,E-class W210,Mercedes-Benz
+2002,0.26,E-class W211 200/220/230/240E,Mercedes-Benz
+2002,0.27,E-class W211,Mercedes-Benz
+2016,0.23,E-class W213,Mercedes-Benz
+1979,0.53,G-class,Mercedes-Benz
+1972,0.412,280 SE (W 116),Mercedes-Benz
+1979,0.36,280 SE (W 126),Mercedes-Benz
+1980,0.36,500 SEL (W 126),Mercedes-Benz
+1982,0.35,380 SEC (C126),Mercedes-Benz
+1991,0.31,S-class W140,Mercedes-Benz
+2000,0.27,S-class W220,Mercedes-Benz
+2000,0.268,S-class W220 Sport Package,Mercedes-Benz
+2006,0.26,S-class W221,Mercedes-Benz
+1996,0.34,Vito W638,Mercedes-Benz
+2013,0.23,CLA Class,Mercedes-Benz
+2013,0.3,CLA Class Blue Efficiency Edition,Mercedes-Benz
+2000,0.34,SLK Class R170 Facelifted 230,Mercedes-Benz
+2000,0.33,SLK Class R170 Facelifted,Mercedes-Benz
+2004,0.32,SLK Class R171,Mercedes-Benz
+2004,0.33,SLK Class R171 55 AMG,Mercedes-Benz
+2011,0.3,SLK Class R172,Mercedes-Benz
+1972,0.45,SL-class R107,Mercedes-Benz
+1989,0.45,SL-class R129,Mercedes-Benz
+2001,0.34,SL-class R230 roof down,Mercedes-Benz
+2001,0.29,SL-class R230 roof up,Mercedes-Benz
+2008,0.37,SL-class R230 65 AMG,Mercedes-Benz
+2012,0.27,SL-class R231,Mercedes-Benz
+2010,0.36,SLS AMG C197 Coupe,Mercedes-Benz
+2010,0,SLS AMG R197 Roadster,Mercedes-Benz
